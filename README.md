@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I am a fashion writer and amateur classical guitarist.
+- Recently, I have developed an interest in computer science,
+- so I hope to start my learning journey here.
+
 
 <!--
 **Andy660/andy660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
