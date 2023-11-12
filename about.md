@@ -1,13 +1,25 @@
+---
+title: About
+permalink: /about/
+layout: page
+comments: false
+---
 Hi there，Welcome to my website👏.
 
-I am a freelance fashion writer living in Beijing, with over 10 years of experience in fashion industry as a former journalist. Now I am involved in fashion communication and brand promotion.
+## about me
 
-I like to read, write and talk about books, movies, coffee, among other things, also I am an Amateur classical guitar player.
+I am a freelance fashion writer based in Beijing, with over a decade of experience in the fashion industry as a former journalist. Currently, I am working as a project manager, with a focus on fashion communication and brand promotion.
 
-My personal blog at [***blog.2cweekly.com***](https://blog.2cweekly.com), I use this platform to document fragmented thoughts from my weekly work and study, periodically organizing them. Additionally, I document life’s fascinating occurrences, share personal interests and hobbies along the way through my blog-life column.
+Beyond fashion, I am an avid reader, writer, and cinephile, engaging in stimulating discussions about books, movies, music, and coffee. I also cultivate my passion for music as an amateur classical guitarist, deeply inspired by the artistry of Xuefei Yang.
 
-- [***WEEKLY***](https://blog.2cweekly.com/category/fashion/) - An elegant blogzine that captures the fashion industry updates I delve into every week, presented in the form of a weekly magazine.
-- [***Fashion Communication***](https://blog.2cweekly.com/category/fashion-communication/) -  A column dedicated to sharing fashion communication skills and knowledge.
-- [***BLOG***](https://blog.2cweekly.com/category/bloglife/) - Where I frequently express my thoughts and share interesting experiences from my life.
+## about 2Cweekly
 
-Want to say hello? Feel free to [Drop me an email.](mailto:andytaweekly@gmail.com)
+[2Cweekly](https://2cweekly.com) is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary.
+
+Apart from fashion, I share my weekly thoughts and observations, along with personal interests and hobbies, in my blog-life column. This section is presented in Chinese, inspired by the format of a [WEEKLY](https://blog.2cweekly.com/category/fashion/) magazine.
+
+## contact✨
+
+As a passionate fashion freelance writer, I'm eager to contribute my expertise to your publications. If you're seeking the latest news or analysis on China's fashion industry, I'd be thrilled to collaborate with you.
+
+I'm always open to feedback on my blog. Please feel free to [Drop me an email.](mailto:andytaweekly@gmail.com)
