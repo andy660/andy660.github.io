@@ -1,9 +1,9 @@
 ---
-Layout: post
-Title: A BRIEF HISTORY OF MEN’S FASHION
-Date: 2024-07-17
-Tags: MEN’S FASHION
-Comment: false
+layout: post
+title: A BRIEF HISTORY OF MEN’S FASHION
+date: 2024-07-17
+tags: MEN’S FASHION
+comment: false
 ---
 
 Menswear is steeped in history and tradition. Every person in menswear (designer, stylist, editor, etc) has taken inspiration from the past at one time or another. And no era has been overlooked.
