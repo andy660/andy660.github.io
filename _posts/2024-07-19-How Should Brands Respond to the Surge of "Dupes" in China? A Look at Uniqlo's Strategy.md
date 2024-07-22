@@ -27,6 +27,12 @@ As consumer demand remains relatively weak, the market is shifting towards a low
 
 ## How is Uniqlo Responding to the Surge of "Dupes"?
 Uniqlo is adjusting its business strategy by shifting from Chain Store Management to Local Store Management.
-- **Store Opening Strategy: **The focus has shifted towards improving store quality rather than quantity. The brand plans to open 50-80 new stores annually while also phasing out or rebuilding approximately 50 existing locations. Uniqlo aims to renovate flagship stores in cities like Shanghai and Guangzhou, and plans to establish flagship locations in high-potential cities such as Chongqing, Chengdu, Tianjin, Xi’an, Kunming, and Zhengzhou.
-- **Channel Strategy: **There will be a deeper integration of physical stores and e-commerce. In addition to maintaining traditional e-commerce channels and key marketing periods like Singles’ Day and 618, the brand is actively expanding into live-stream sales. It intends to leverage platforms like WeChat, Douyin, and its own digital tools, aiming to increase e-commerce sales to 30% of total revenue. Furthermore, Uniqlo hopes to drive traffic between physical stores and e-commerce to enhance overall sales.
-- **Product Mix: **The brand plans to segment the mainland Chinese market into different regions based on climate, lifestyle, and culture, creating product assortments tailored to the characteristics of each area.
+
+**Store Opening Strategy: **
+The focus has shifted towards improving store quality rather than quantity. The brand plans to open 50-80 new stores annually while also phasing out or rebuilding approximately 50 existing locations. Uniqlo aims to renovate flagship stores in cities like Shanghai and Guangzhou, and plans to establish flagship locations in high-potential cities such as Chongqing, Chengdu, Tianjin, Xi’an, Kunming, and Zhengzhou.
+
+**Channel Strategy: **
+There will be a deeper integration of physical stores and e-commerce. In addition to maintaining traditional e-commerce channels and key marketing periods like Singles’ Day and 618, the brand is actively expanding into live-stream sales. It intends to leverage platforms like WeChat, Douyin, and its own digital tools, aiming to increase e-commerce sales to 30% of total revenue. Furthermore, Uniqlo hopes to drive traffic between physical stores and e-commerce to enhance overall sales.
+
+**Product Mix: **
+The brand plans to segment the mainland Chinese market into different regions based on climate, lifestyle, and culture, creating product assortments tailored to the characteristics of each area.
