@@ -3,7 +3,7 @@ layout: post
 title: How Should Brands Respond to the Surge of "Dupes" in China? A Look at Uniqlo's Strategy.
 date: 2024-7-19
 tags: FashionChina
-comment: false
+comments: false
 ---
 
 The recent third-quarter report from Fast Retailing Co. (covering the period from March 1, 2024, to May 31, 2024) indicates that Uniqlo's performance has shown positive growth in the Japanese market, as well as in North America, Europe, Southeast Asia, India, and Australia.

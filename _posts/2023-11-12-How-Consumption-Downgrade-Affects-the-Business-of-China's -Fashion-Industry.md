@@ -3,7 +3,7 @@ layout: post
 title: How Consumption Downgrade Affects the Business of China's Fashion Industry？
 date: 2023-11-12
 tags: FashionChina
-comment: false
+comments: false
 ---
 
 ![]( https://img.gugu.ovh/i/2023/11/16/z3i3x6.webp)

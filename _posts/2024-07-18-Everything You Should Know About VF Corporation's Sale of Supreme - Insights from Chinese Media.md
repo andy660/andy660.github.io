@@ -3,7 +3,7 @@ layout: post
 title: Everything You Should Know About VF Corporation's Sale of Supreme, Insights from Chinese Media
 date: 2024-07-18
 tags: FashionChina
-comment: false
+comments: false
 ---
 
 ![Supreme is being bought by EssilorLuxottica](https://img.gugu.ovh/i/2024/07/18/130150.webp)
