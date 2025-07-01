@@ -2,7 +2,7 @@
 title: 2Cweekly # site title
 description: >- # site description
   2Cweekly is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary.
-lang: en-US # default lang
+lang: zh-hans # default lang
 timezone: Asia/Shanghai # set your timezone
 image:  # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/andy660/andy660 # site repo [optional]
@@ -23,7 +23,7 @@ author:
 # URL settings
 url: "https://www.2cweekly.com" #
 baseurl:
-permalink: /:title/
+permalink: /:slug.html
 google_analytics: 413871271 # leave it blank if not wish
 fb_appid:
 
@@ -33,10 +33,13 @@ collections:
     output: true
 
 # Markdown settings
-markdown: kramdown
+markdown: kramdown # 默认的GitHub Pages 格式渲染
 highlighter: rouge
 kramdown:
-  syntax_highlighter: rouge
+  syntax_highlighter: rouge # GitHub Pages 默认使用 Rouge 进行代码高亮
+  input: GFM # 冗余设置默认的GitHub Pages 格式渲染
+  gfm_quirks: [paragraph_end]
+  hard_wrap: false # 推荐设置为 false，避免意外的 <br> 标签
 
 # Default front matter
 defaults:
@@ -58,7 +61,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 9
 
 # Build settings
 sass:

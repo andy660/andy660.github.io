@@ -4,6 +4,7 @@ title: Everything You Should Know About VF Corporation's Sale of Supreme, Insigh
 date: 2024-07-18
 tags: FashionChina
 comments: false
+slug: VF-Corporation-Sale-Supreme
 ---
 
 ![Supreme is being bought by EssilorLuxottica](https://img.gugu.ovh/i/2024/07/18/130150.webp)

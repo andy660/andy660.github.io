@@ -66,3 +66,18 @@ $on-widescreen: 1152px;
 @import 'miscellaneous';
 @import 'syntax';
 @import 'dark';
+
+/* 自定义 Markmap 容器的尺寸 */
+	.markmap {
+		position: relative;
+	}
+	.markmap > svg {
+    width: 100%; /* 让思维导图占据其父容器的全部宽度 */
+    height: 70vh; /* 让思维导图占据视口高度的 70% */
+  /* 你可以根据需要调整 85vh 这个值：
+     - 比如，如果你希望它更高，可以尝试 70vh 或 80vh。
+     - 如果你希望它有一个固定的高度，不随视口高度变化，可以改为像素值，例如：height: 600px;
+  */
+    border: 1px solid #ccc; /* 可选：添加边框以便更好地看到其边界 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 可选：添加阴影效果 */
+    }

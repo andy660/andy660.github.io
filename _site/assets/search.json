@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "中国特色资产配置框架学习笔记",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/chinese-investment-portfolio-strategy.html",
+      "date"     : "2025-04-16 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "关于债券基金投资学习",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%85%B3%E4%BA%8E%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E5%AD%A6%E4%B9%A0/",
+      "url"      : "/bond-fund-investment.html",
       "date"     : "2025-03-25 00:00:00 +0800"
     } ,
   
@@ -12,7 +20,7 @@
       "title"    : "关于基金投资的基本原则和参考策略",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%85%B3%E4%BA%8E%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%96%E7%95%A5/",
+      "url"      : "/fund-investment-strategies.html",
       "date"     : "2025-03-16 00:00:00 +0800"
     } ,
   
@@ -20,7 +28,7 @@
       "title"    : "男生该如何提升自己的穿衣品味？",
       "description" : "",
       "tags"     : "直男穿搭",
-      "url"      : "/%E7%94%B7%E7%94%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A9%BF%E8%A1%A3%E5%93%81%E5%91%B3/",
+      "url"      : "/mens-fashion-tips.html",
       "date"     : "2024-07-20 00:00:00 +0800"
     } ,
   
@@ -28,7 +36,7 @@
       "title"    : "How Should Brands Respond to the Surge of &quot;Dupes&quot; in China? A Look at Uniqlo&#39;s Strategy.",
       "description" : "",
       "tags"     : "FashionChina",
-      "url"      : "/How-Should-Brands-Respond-to-the-Surge-of-Dupes-in-China-A-Look-at-Uniqlo's-Strategy/",
+      "url"      : "/the-surge-of-dupes-in-china.html",
       "date"     : "2024-07-19 00:00:00 +0800"
     } ,
   
@@ -36,7 +44,7 @@
       "title"    : "Everything You Should Know About VF Corporation&#39;s Sale of Supreme, Insights from Chinese Media",
       "description" : "",
       "tags"     : "FashionChina",
-      "url"      : "/Everything-You-Should-Know-About-VF-Corporation's-Sale-of-Supreme-Insights-from-Chinese-Media/",
+      "url"      : "/vf-corporation-sale-supreme.html",
       "date"     : "2024-07-18 00:00:00 +0800"
     } ,
   
@@ -44,7 +52,7 @@
       "title"    : "A BRIEF HISTORY OF MEN’S FASHION",
       "description" : "",
       "tags"     : "直男穿搭",
-      "url"      : "/A-BRIEF-HISTORY-OF-MEN-S-FASHION/",
+      "url"      : "/history-of-mens-fashion.html",
       "date"     : "2024-07-17 00:00:00 +0800"
     } ,
   
@@ -52,7 +60,7 @@
       "title"    : "如何做好产品拍摄项目？时尚大片拍摄从策划到执行的全案经验分享",
       "description" : "",
       "tags"     : "时尚品牌推广",
-      "url"      : "/%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E4%BA%A7%E5%93%81%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE-%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87%E6%8B%8D%E6%91%84%E4%BB%8E%E7%AD%96%E5%88%92%E5%88%B0%E6%89%A7%E8%A1%8C%E7%9A%84%E5%85%A8%E6%A1%88%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/",
+      "url"      : "/fashion-photography-guide.html",
       "date"     : "2023-12-20 00:00:00 +0800"
     } ,
   
@@ -60,7 +68,7 @@
       "title"    : "How Consumption Downgrade Affects the Business of China&#39;s Fashion Industry？",
       "description" : "",
       "tags"     : "FashionChina",
-      "url"      : "/How-Consumption-Downgrade-Affects-the-Business-of-China's-Fashion-Industry/",
+      "url"      : "/the-business-of-fashion-industry-china.html",
       "date"     : "2023-11-12 00:00:00 +0800"
     } ,
   
@@ -68,7 +76,7 @@
       "title"    : "如何更高效地看四大时装周？",
       "description" : "",
       "tags"     : "时尚品牌推广",
-      "url"      : "/%E5%A6%82%E4%BD%95%E6%9B%B4%E9%AB%98%E6%95%88%E5%9C%B0%E7%9C%8B%E5%9B%9B%E5%A4%A7%E6%97%B6%E8%A3%85%E5%91%A8/",
+      "url"      : "/fashion-week-tips.html",
       "date"     : "2023-09-07 00:00:00 +0800"
     } ,
   
@@ -76,7 +84,7 @@
       "title"    : "如何准备时尚活动的新闻通稿？",
       "description" : "",
       "tags"     : "时尚品牌推广",
-      "url"      : "/%E5%A6%82%E4%BD%95%E5%87%86%E5%A4%87%E6%97%B6%E5%B0%9A%E6%B4%BB%E5%8A%A8%E7%9A%84%E6%96%B0%E9%97%BB%E9%80%9A%E7%A8%BF/",
+      "url"      : "/fashion-event-press-release-guide.html",
       "date"     : "2023-06-12 00:00:00 +0800"
     } ,
   
@@ -84,7 +92,7 @@
       "title"    : "关于可转债投资基础知识",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%85%B3%E4%BA%8E%E5%8F%AF%E8%BD%AC%E5%80%BA%E6%8A%95%E8%B5%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/",
+      "url"      : "/convertible-bonds-guide.html",
       "date"     : "2019-01-11 00:00:00 +0800"
     } ,
   
@@ -92,7 +100,7 @@
       "title"    : "普通人如何在牛市中生存",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E7%89%9B%E5%B8%82%E4%B8%AD%E7%94%9F%E5%AD%98/",
+      "url"      : "/surviving-bull-market.html",
       "date"     : "2018-05-16 00:00:00 +0800"
     } ,
   
@@ -100,7 +108,7 @@
       "title"    : "对券商研究报告的看法",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%AF%B9%E5%88%B8%E5%95%86%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E7%9A%84%E7%9C%8B%E6%B3%95/",
+      "url"      : "/broker-research-reports.html",
       "date"     : "2018-04-11 00:00:00 +0800"
     } ,
   
@@ -108,15 +116,15 @@
       "title"    : "公司调研和研究思路框架",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%85%AC%E5%8F%B8%E8%B0%83%E7%A0%94%E5%92%8C%E7%A0%94%E7%A9%B6%E6%80%9D%E8%B7%AF%E6%A1%86%E6%9E%B6/",
+      "url"      : "/company-analysis-framework.html",
       "date"     : "2017-09-25 00:00:00 +0800"
     } ,
   
     {
-      "title"    : "行业研究清单",
+      "title"    : "行业研究清单-《股市真规则》读书笔记",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%B8%85%E5%8D%95/",
+      "url"      : "/industry-research-checklist.html",
       "date"     : "2017-09-05 00:00:00 +0800"
     } ,
   
@@ -124,7 +132,7 @@
       "title"    : "为什么我会坚持写投资笔记？",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BC%9A%E5%9D%9A%E6%8C%81%E5%86%99%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/",
+      "url"      : "/investment-journal-importance.html",
       "date"     : "2017-05-25 00:00:00 +0800"
     } ,
   
@@ -132,7 +140,7 @@
       "title"    : "如何管理仓位？关于补仓的看法",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BB%93%E4%BD%8D-%E5%85%B3%E4%BA%8E%E8%A1%A5%E4%BB%93%E7%9A%84%E7%9C%8B%E6%B3%95/",
+      "url"      : "/averaging-down-strategy.html",
       "date"     : "2017-05-16 00:00:00 +0800"
     } ,
   
@@ -140,7 +148,7 @@
       "title"    : "如何管理仓位？我的组合标的跟踪经验及工具分享",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BB%93%E4%BD%8D-%E6%88%91%E7%9A%84%E7%BB%84%E5%90%88%E6%A0%87%E7%9A%84%E8%B7%9F%E8%B8%AA%E7%BB%8F%E9%AA%8C%E5%8F%8A%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/",
+      "url"      : "/portfolio-tracking-tools.html",
       "date"     : "2017-05-05 00:00:00 +0800"
     } ,
   
@@ -148,7 +156,7 @@
       "title"    : "如何管理仓位？我坚守的四条基本原则",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BB%93%E4%BD%8D-%E6%88%91%E5%9D%9A%E5%AE%88%E7%9A%84%E5%9B%9B%E6%9D%A1%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99/",
+      "url"      : "/position-management-rules.html",
       "date"     : "2017-04-27 00:00:00 +0800"
     } ,
   
@@ -156,7 +164,7 @@
       "title"    : "梳理我的买入与卖出思路",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E6%A2%B3%E7%90%86%E6%88%91%E7%9A%84%E4%B9%B0%E5%85%A5%E4%B8%8E%E5%8D%96%E5%87%BA%E6%80%9D%E8%B7%AF/",
+      "url"      : "/buy-sell-strategy-guide.html",
       "date"     : "2017-04-15 00:00:00 +0800"
     } ,
   
@@ -164,7 +172,7 @@
       "title"    : "关于估值的看法和思考",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E5%85%B3%E4%BA%8E%E4%BC%B0%E5%80%BC%E7%9A%84%E7%9C%8B%E6%B3%95%E5%92%8C%E6%80%9D%E8%80%83/",
+      "url"      : "/valuation-methods-analysis.html",
       "date"     : "2017-04-03 00:00:00 +0800"
     } ,
   
@@ -172,7 +180,7 @@
       "title"    : "我的选股指标3：PE市盈率",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E6%88%91%E7%9A%84%E9%80%89%E8%82%A1%E6%8C%87%E6%A0%873-PE%E5%B8%82%E7%9B%88%E7%8E%87/",
+      "url"      : "/pe-ratio-valuation.html",
       "date"     : "2017-03-23 00:00:00 +0800"
     } ,
   
@@ -180,7 +188,7 @@
       "title"    : "我的选股指标2：护城河（关于商业模式或垄断）",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E6%88%91%E7%9A%84%E9%80%89%E8%82%A1%E6%8C%87%E6%A0%872-%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E5%85%B3%E4%BA%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E6%88%96%E5%9E%84%E6%96%AD/",
+      "url"      : "/economic-moat-business-model.html",
       "date"     : "2017-03-19 00:00:00 +0800"
     } ,
   
@@ -188,7 +196,7 @@
       "title"    : "我的选股指标1：ROE净资产收益率",
       "description" : "",
       "tags"     : "投资笔记",
-      "url"      : "/%E6%88%91%E7%9A%84%E9%80%89%E8%82%A1%E6%8C%87%E6%A0%871-ROE%E5%87%80%E8%B5%84%E4%BA%A7%E6%94%B6%E7%9B%8A%E7%8E%87/",
+      "url"      : "/roe-profitability-indicator.html",
       "date"     : "2017-03-12 00:00:00 +0800"
     } 
   
