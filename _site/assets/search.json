@@ -89,6 +89,14 @@
     } ,
   
     {
+      "title"    : "《首席内容官》读书笔记：内容营销基础指南",
+      "description" : "",
+      "tags"     : "时尚品牌推广",
+      "url"      : "/content-marketing-strategy.html",
+      "date"     : "2020-03-12 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "关于可转债投资基础知识",
       "description" : "",
       "tags"     : "投资笔记",
@@ -110,6 +118,14 @@
       "tags"     : "投资笔记",
       "url"      : "/broker-research-reports.html",
       "date"     : "2018-04-11 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "宏观经济分析框架学习笔记",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/china-macroeconomic-analysis-framework.html",
+      "date"     : "2017-10-22 00:00:00 +0800"
     } ,
   
     {

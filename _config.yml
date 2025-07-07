@@ -2,7 +2,7 @@
 title: 2Cweekly # site title
 description: >- # site description
   2Cweekly is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary.
-lang: zh-hans # default lang
+lang: zh-CN # default lang
 timezone: Asia/Shanghai # set your timezone
 image:  # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/andy660/andy660 # site repo [optional]
@@ -17,6 +17,7 @@ author:
   github:  andy660 # github username
   twitter: kawahlai # twitter username
   facebook:  # facebook username
+  fb_appid:
   email: andytaweekly@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
@@ -24,8 +25,9 @@ author:
 url: "https://www.2cweekly.com" #
 baseurl:
 permalink: /:slug.html
+
+# SEO and Analytics
 google_analytics: 413871271 # leave it blank if not wish
-fb_appid:
 
 # Collection setting
 collections:
@@ -40,6 +42,7 @@ kramdown:
   input: GFM # 冗余设置默认的GitHub Pages 格式渲染
   gfm_quirks: [paragraph_end]
   hard_wrap: false # 推荐设置为 false，避免意外的 <br> 标签
+  mermaid: true
 
 # Default front matter
 defaults:
@@ -61,7 +64,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 9
+number_of_posts: 5
 
 # Build settings
 sass:
