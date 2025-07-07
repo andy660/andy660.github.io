@@ -96,7 +96,6 @@ layout: compress
 
     <!-- 加载 mermaid，异步加载渲染 -->
 
-    { % if page.mermaid % }
     <script>
     function initMermaid() {
       var config = {
@@ -117,7 +116,6 @@ layout: compress
       onload="initMermaid()">
     </script>
 
-    { % endif % }  
   </div>
 </body>
 
