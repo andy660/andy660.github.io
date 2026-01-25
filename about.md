@@ -14,9 +14,9 @@ Beyond fashion, I am an avid reader, writer, and cinephile, engaging in stimulat
 
 ## about 2Cweekly
 
-[2Cweekly](https://www.2cweekly.com) is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary.
+[2Cweekly](https://www.2cweekly.com) is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary. This section is presented in Chinese, inspired by the format of a [WEEKLY] magazine. 
 
-Apart from fashion, I share my weekly thoughts and observations, along with personal interests and hobbies, in my blog-life column. This section is presented in Chinese, inspired by the format of a [WEEKLY](https://blog.2cweekly.com/category/fashion/) magazine.
+Besides fashion-related topics, I also document my investment insights and ideas in this blog, sharing observations and reflections from daily life.
 
 ## contact✨
 

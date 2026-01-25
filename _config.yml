@@ -1,7 +1,7 @@
 # Site settings
 title: 2Cweekly # site title
 description: >- # site description
-  2Cweekly is an independent fashion blog that delves into the dynamic world of China's fashion industry. We deliver real-time updates, insightful analysis, and thought-provoking commentary.
+  2Cweekly is an independent blog.
 lang: zh-CN # default lang
 timezone: Asia/Shanghai # set your timezone
 image:  # This image used for Open Graph more info https://ogp.me/
