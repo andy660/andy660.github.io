@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "黄金投资常识与学习笔记",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/everything-about-gold.html",
+      "date"     : "2025-09-20 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「债券基金」投资基础知识梳理2025版",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/bond-fund-investment-the-basics.html",
+      "date"     : "2025-08-23 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「债券」投资基础知识梳理2025版",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/bond-investment-the-basics.html",
+      "date"     : "2025-08-22 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "关于股市特征（基本规律）的总结梳理2025版",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/basic-laws-of-the-stock-market.html",
+      "date"     : "2025-07-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「投资第一步」学习笔记",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/first-steps-in-investing.html",
+      "date"     : "2025-06-21 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「投资第一课」学习笔记",
+      "description" : "",
+      "tags"     : "投资笔记",
+      "url"      : "/know-and-do-first-steps-in-investing-the-basics.html",
+      "date"     : "2025-05-15 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "中国特色资产配置框架学习笔记",
       "description" : "",
       "tags"     : "投资笔记",
@@ -65,11 +113,107 @@
     } ,
   
     {
+      "title"    : "线下购物的乐趣是什么时候失去的？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly036.html",
+      "date"     : "2023-11-25 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "社交媒体如何把运动员变成时尚营销机器？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly035.html",
+      "date"     : "2023-11-18 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "How Consumption Downgrade Affects the Business of China&#39;s Fashion Industry？",
       "description" : "",
       "tags"     : "FashionChina",
       "url"      : "/the-business-of-fashion-industry-china.html",
       "date"     : "2023-11-12 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "2024社交媒体时尚营销趋势",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly034.html",
+      "date"     : "2023-11-11 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么大型时装公司的女性创意总监如此之少？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly033.html",
+      "date"     : "2023-11-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "说说Celine的线上时装秀",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly032.html",
+      "date"     : "2023-10-28 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么小黑裙又开始火起来了？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly031.html",
+      "date"     : "2023-10-21 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么体育明星正在加速涌进时尚圈？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly030.html",
+      "date"     : "2023-10-14 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "四大时装周2024春夏系列最佳发布是谁？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly029.html",
+      "date"     : "2023-10-07 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "米兰时装周SS24 关于Gucci大秀的各路声音",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly028.html",
+      "date"     : "2023-09-30 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "伦敦时装周2024春夏系列观后和看点总结",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly027.html",
+      "date"     : "2023-09-23 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么纽约时装周成了通往欧洲时尚圈的跳板？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly026.html",
+      "date"     : "2023-09-16 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "谁会是纽约时装周SS24的大赢家",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly025.html",
+      "date"     : "2023-09-09 00:00:00 +0800"
     } ,
   
     {
@@ -81,11 +225,203 @@
     } ,
   
     {
+      "title"    : "四大时装周24 SS日程及看点",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly024.html",
+      "date"     : "2023-09-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "逛线上虚拟概念店的感受",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly023.html",
+      "date"     : "2023-08-26 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "说说FERRAGAMO 2023秋冬创意大片",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly022.html",
+      "date"     : "2023-08-19 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "从时尚营销大咖George Kolasa身上我学到的经验",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly021.html",
+      "date"     : "2023-08-12 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "大型时装秀仍然是时尚品牌最重要的营销工具",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly020.html",
+      "date"     : "2023-08-05 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "时尚品牌如何优雅地告诉消费者，我们的产品降价了？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly019.html",
+      "date"     : "2023-07-29 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "时尚品牌如何与大V合作？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly018.html",
+      "date"     : "2023-07-22 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么时尚品牌喜欢找顶级运动员合作？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly017.html",
+      "date"     : "2023-07-15 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "如何知道一场时装发布会传递了什么信息？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly016.html",
+      "date"     : "2023-07-08 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "潮流趋势与时尚营销，互联网流量",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly015.html",
+      "date"     : "2023-07-01 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "时尚品牌父亲节营销的内容输出视角",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly014.html",
+      "date"     : "2023-06-17 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "如何准备时尚活动的新闻通稿？",
       "description" : "",
       "tags"     : "时尚品牌推广",
       "url"      : "/fashion-event-press-release-guide.html",
       "date"     : "2023-06-12 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "关于Apple 的Vision Pro，时尚圈需要知道几件事",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly013.html",
+      "date"     : "2023-06-10 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "对Dior 墨西哥城大秀及其传播的思考",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly012.html",
+      "date"     : "2023-06-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "用「一块布」做的设计为什么能拿头奖？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly011.html",
+      "date"     : "2023-05-27 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "远程办公能重新定义着装文化吗？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly010.html",
+      "date"     : "2023-05-20 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Met Gala 2023红毯观后感及其他",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly009.html",
+      "date"     : "2023-05-07 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "当我们谈到Karl Lagerfeld时，印象最深的是什么？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly008.html",
+      "date"     : "2023-04-29 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "全世界的时尚品牌都想在中国搞事情",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly007.html",
+      "date"     : "2023-04-22 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "中国游客对全球时尚行业有多重要？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly006.html",
+      "date"     : "2023-04-07 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "奢侈品牌热衷提价的本质原因是什么？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly005.html",
+      "date"     : "2023-03-31 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "为什么时尚品牌的创意总监离职总能成为大新闻？",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly004.html",
+      "date"     : "2023-03-24 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Oscar、可持续时尚及明星营销",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly003.html",
+      "date"     : "2023-03-17 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "巴黎时装周FW 2023 系列随想",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly002.html",
+      "date"     : "2023-03-10 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "米兰时装周 FW 2023 系列秀场review",
+      "description" : "",
+      "tags"     : "2CWeekly",
+      "url"      : "/2cweekly001.html",
+      "date"     : "2023-03-03 00:00:00 +0800"
     } ,
   
     {
