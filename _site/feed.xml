@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh-CN" /><updated>2026-02-04T19:19:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2Cweekly</title><subtitle>2Cweekly is an independent blog.</subtitle><author><name>Andy Lai</name><email>andytaweekly@gmail.com</email></author><entry><title type="html">黄金投资常识与学习笔记</title><link href="http://localhost:4000/everything-about-gold.html" rel="alternate" type="text/html" title="黄金投资常识与学习笔记" /><published>2025-09-20T00:00:00+08:00</published><updated>2025-09-20T00:00:00+08:00</updated><id>http://localhost:4000/%E2%80%8Beverything-about-gold</id><content type="html" xml:base="http://localhost:4000/everything-about-gold.html">&lt;h2 id=&quot;一黄金作为贵金属的常识&quot;&gt;一、黄金作为贵金属的常识&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh-CN" /><updated>2026-02-04T19:25:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">2Cweekly</title><subtitle>2Cweekly is an independent blog.</subtitle><author><name>Andy Lai</name><email>andytaweekly@gmail.com</email></author><entry><title type="html">黄金投资常识与学习笔记</title><link href="http://localhost:4000/everything-about-gold.html" rel="alternate" type="text/html" title="黄金投资常识与学习笔记" /><published>2025-09-20T00:00:00+08:00</published><updated>2025-09-20T00:00:00+08:00</updated><id>http://localhost:4000/%E2%80%8Beverything-about-gold</id><content type="html" xml:base="http://localhost:4000/everything-about-gold.html">&lt;h2 id=&quot;一黄金作为贵金属的常识&quot;&gt;一、黄金作为贵金属的常识&lt;/h2&gt;
 
 &lt;p&gt;1.根据世界黄金协会数据，全球目前黄金总量 20.8W 吨。近年来每年新增黄金 3000 吨左右。总供给无法大幅扩张。&lt;/p&gt;
 
@@ -503,8 +503,9 @@
 
 &lt;h2 id=&quot;三-债券投资观察指标&quot;&gt;三、🚩 债券投资观察指标&lt;/h2&gt;
 
-&lt;p&gt;1️⃣ 面值：一张债券发行面额规定是 100 元。
-2️⃣ 票面利率：&lt;/p&gt;
+&lt;p&gt;1️⃣ 面值：一张债券发行面额规定是 100 元。&lt;/p&gt;
+
+&lt;p&gt;2️⃣ 票面利率：&lt;/p&gt;
 
 &lt;p&gt;我们作为投资人，通过投标，假设最后以 3%/年的利率中标该债券。则该券票面利率=3%/年，这意味着一年后我们可以拿回本金 100 元以及利息 100*3%=3 元。票面利率在这个债券存续期间都保持不变。&lt;/p&gt;
 
@@ -1529,9 +1530,11 @@
 
 &lt;p&gt;买股票就是买公司所有权的一部分。&lt;/p&gt;
 
-&lt;p&gt;1️⃣ 单个公司也有生命周期，最终可能死掉，长期价值归零。
-2️⃣ 公司财富分配最常见的两种方式——股和债。
-3️⃣ 买公司债券，是收取一定的利息作为回报。法律有强制公司还债的要求。
+&lt;p&gt;1️⃣ 单个公司也有生命周期，最终可能死掉，长期价值归零。&lt;/p&gt;
+
+&lt;p&gt;2️⃣ 公司财富分配最常见的两种方式——股和债。&lt;/p&gt;
+
+&lt;p&gt;3️⃣ 买公司债券，是收取一定的利息作为回报。法律有强制公司还债的要求。
 💡 启示：买一系列公司股票组合。&lt;/p&gt;
 
 &lt;p&gt;所谓的长期，理论上越长越正确。但现实是人的一生短暂，每笔投资都应该有时间属性，应该做好规划。&lt;/p&gt;
@@ -1880,19 +1883,20 @@
 
 &lt;p&gt;🌟 一个有效的投资策略框架&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 买什么
-- 什么时候买
-- 买入价格
-- 如何买
-- 买入的比例
-- 投资过程的监控
-- 什么时候卖
-- 投资组合的结构和杠杆运用
-- 如何寻找投资机会
-- 应对市场崩溃等系统性冲击的方法
-- 出错了怎么办
-- 系统无效时怎么做
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;买什么&lt;/li&gt;
+  &lt;li&gt;什么时候买&lt;/li&gt;
+  &lt;li&gt;买入价格&lt;/li&gt;
+  &lt;li&gt;如何买&lt;/li&gt;
+  &lt;li&gt;买入的比例&lt;/li&gt;
+  &lt;li&gt;投资过程的监控&lt;/li&gt;
+  &lt;li&gt;什么时候卖&lt;/li&gt;
+  &lt;li&gt;投资组合的结构和杠杆运用&lt;/li&gt;
+  &lt;li&gt;如何寻找投资机会&lt;/li&gt;
+  &lt;li&gt;应对市场崩溃等系统性冲击的方法&lt;/li&gt;
+  &lt;li&gt;出错了怎么办&lt;/li&gt;
+  &lt;li&gt;系统无效时怎么做&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;结语&quot;&gt;结语&lt;/h2&gt;
 
