@@ -6,6 +6,9 @@ layout: compress
 <html lang="{{ page.lang | default: site.lang | default: "zh-CN" }}">
 
 {% include header.html %}
+{% if content contains 'class="language-markmap"' %}
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+{% endif %}
 
 <body data-theme="{{ site.mode }}" class="notransition">
 
@@ -89,13 +92,18 @@ layout: compress
 
     {% include footer.html %}
     <!-- 自定义 Markmap 初始化脚本 (必须在 markmap-autoloader 之前) -->
-    <script src="/assets/js/markmap-init.js"></script>
+    <!-- <script src="/assets/js/markmap-init.js"></script> -->
 
     <!-- 加载 markmap-autoloader -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script> -->
+
+    {% if content contains 'class="language-markmap"' %}
+    <script src="/assets/js/markmap-init.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script>
+    {% endif %}
 
     <!-- 加载 mermaid，异步加载渲染 -->
-
+    {% if content contains 'class="language-mermaid"' %}
     <script>
     function initMermaid() {
       var config = {
@@ -111,11 +119,11 @@ layout: compress
     }
     </script>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.0/mermaid.min.js"
+    <script src="https://cdn.staticfile.org/mermaid/8.14.0/mermaid.min.js"
       async
       onload="initMermaid()">
     </script>
-
+    {% endif %}
   </div>
 </body>
 
