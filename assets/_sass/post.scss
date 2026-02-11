@@ -71,6 +71,14 @@
 .page-content {
   padding-top: 8px;
 
+    // 确保正文使用正确的字体
+  font-family: var(--font-body);
+
+    // 确保所有文本元素使用主字体
+  p, ul, ol, dl, blockquote, table {
+    font-family: var(--font-body);
+  }
+  
   iframe {
     text-align: center;
   }
