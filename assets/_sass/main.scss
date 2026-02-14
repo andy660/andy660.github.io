@@ -1,53 +1,66 @@
-// Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+// ======================
+// 字体偏好（纯系统字体）
+// ======================
+$sans-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans CJK SC", sans-serif;
+$mono-family: "SF Mono", "Menlo", "Consolas", "Cascadia Code", "Fira Code", "Courier New", monospace;
+
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
-// Font weight
-// $light-weight: 300; // uncomment if necessary
+// ======================
+// 字体粗细
+// ======================
 $normal-weight: 400;
 $bold-weight: 700;
-// $black-weight: 900; // uncomment if necessary
 
-//Light Colors
-$text-base-color: #434648;
-$text-link-blue: #003fff;
-$text-link-blue-active: #0036c7;
+// ======================
+// 颜色主题变量（CSS自定义属性）
+// ======================
+:root {
+  --text-base: #434648;
+  --text-muted: #6b7886;
+  --heading-color: #0d122b;
+  --text-link: #003fff;
+  --text-link-active: #0036c7;
+  --bg-primary: #ffffff;
+  --bg-secondary: #ececec;
+  --border-light: #d2c7c7;
+  --border-dark: #6b7886;
+}
 
-$black: #0d122b;
-$light: #ececec;
-$smoke: #d2c7c7;
-$gray: #6b7886;
-$white: #fff;
+[data-theme="dark"] {
+  --text-base: #c7bebe;
+  --text-muted: #767f87;
+  --heading-color: #eaeaea;
+  --text-link: #ff5277;
+  --text-link-active: #ff2957;
+  --bg-primary: #131418;
+  --bg-secondary: #1b1d25;
+  --border-light: #4a4d56;
+  --border-dark: #767f87;
+}
 
-// Dark Colors
-$dark-text-base-color: #c7bebe;
-$dark-text-link-blue: #ff5277;
-$dark-text-link-blue-active: #ff2957;
-
-$dark-black: #131418;
-$dark-white: #eaeaea;
-$dark-light: #1b1d25;
-$dark-smoke: #4a4d56;
-$dark-gray: #767f87;
-
-// Width of the content area
+// ======================
+// 布局尺寸
+// ======================
 $wide-size: 890px;
 $narrow-size: 720px;
-
-// Padding unit
 $spacing-full: 30px;
 $spacing-half: $spacing-full / 2;
 
-// State of devices
+// ======================
+// 响应式断点
+// ======================
 $on-mobile: 768px;
 $on-tablet: 769px;
 $on-desktop: 1024px;
 $on-widescreen: 1152px;
 
+// ======================
+// 工具 Mixins
+// ======================
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
@@ -58,27 +71,35 @@ $on-widescreen: 1152px;
   font-size: $base-font-size * $ratio;
 }
 
-// Import sass files
+// ======================
+// 导入所有样式模块
+// ======================
 @import 'fonts';
-@import 'base'; 
+@import 'base';
 @import 'layout';
 @import 'post';
 @import 'miscellaneous';
 @import 'syntax';
-@import 'dark';
 
-/* 自定义 Markmap 容器的尺寸 */
-	.markmap {
-		position: relative;
-	}
-	.markmap > svg {
-    width: 100%; /* 让思维导图占据其父容器的全部宽度 */
-    height: 70vh; /* 让思维导图占据视口高度的 70% */
-  /* 你可以根据需要调整 85vh 这个值：
-     - 比如，如果你希望它更高，可以尝试 70vh 或 80vh。
-     - 如果你希望它有一个固定的高度，不随视口高度变化，可以改为像素值，例如：height: 600px;
-  */
-    border: 1px solid #ccc; /* 可选：添加边框以便更好地看到其边界 */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 可选：添加阴影效果 */
+// ======================
+// 自定义 Markmap 容器样式
+// ======================
+.markmap {
+  position: relative;
+  width: 100%;
+  min-height: 400px;
+  
+  > svg {
+    width: 100%;
+    height: 70vh;
+    max-height: 800px;
+    border: 1px solid var(--border-light);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    
+    @include media-query($on-mobile) {
+      height: 50vh;
+      min-height: 300px;
     }
-
+  }
+}

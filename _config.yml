@@ -1,33 +1,28 @@
 # Site settings
-title: 2Cweekly # site title
-description: >- # site description
-  2Cweekly is an independent blog.
-lang: zh-CN # default lang
-timezone: Asia/Shanghai # set your timezone
-image:  # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/andy660/andy660 # site repo [optional]
-mode: light # default theme "dark" | "light"
+title: 2Cweekly
+description: 2Cweekly is an independent blog.
+lang: zh-CN
+timezone: Asia/Shanghai
+image: 
+repo: https://github.com/andy660/andy660
+mode: light
 
 # Profile settings
 author:
-  name: Andy Lai # author name
-  bio: >- # tell to the world
-    I am a freelance fashion writer based in Beijing, with over a decade of experience in the fashion industry as a former journalist. Currently, I am working as a project manager, with a focus on fashion communication and brand promotion.
-  username: Andy Lai # general username
-  github:  andy660 # github username
-  twitter:  # twitter username
-  facebook:  # facebook username
-  fb_appid:
-  email: andytaweekly@gmail.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  name: Andy Lai
+  bio: I am a freelance fashion writer based in Beijing, with over a decade of experience in the fashion industry as a former journalist. Currently, I am working as a project manager, with a focus on fashion communication and brand promotion.
+  username: Andy Lai
+  github: andy660
+  email: andytaweekly@gmail.com
+  avatar: /assets/img/avatar.jpg
 
 # URL settings
-url: "https://www.2cweekly.com" #
+url: "https://www.2cweekly.com"
 baseurl:
 permalink: /:slug.html
 
 # SEO and Analytics
-google_analytics: 413871271 # leave it blank if not wish
+google_analytics: 413871271
 
 # Collection setting
 collections:
@@ -35,14 +30,13 @@ collections:
     output: true
 
 # Markdown settings
-markdown: kramdown # 默认的GitHub Pages 格式渲染
+markdown: kramdown
 highlighter: rouge
 kramdown:
-  syntax_highlighter: rouge # GitHub Pages 默认使用 Rouge 进行代码高亮
-  input: GFM # 冗余设置默认的GitHub Pages 格式渲染
-  gfm_quirks: [paragraph_end]
-  hard_wrap: false # 推荐设置为 false，避免意外的 <br> 标签
-  mermaid: true
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  mermaid: false
 
 # Default front matter
 defaults:
@@ -69,21 +63,23 @@ number_of_posts: 5
 # Build settings
 sass:
   sass_dir: /assets/_sass
-  css_dir: /assets/css
   style: compressed
 
-include:
-
+# Files to exclude from the final site
 exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
+  - .gitignore
+  - .DS_Store
+  - docker-compose.yml
+  - node_modules
+  - vendor
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
-  - jekyll-disqus

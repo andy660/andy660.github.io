@@ -1,68 +1,42 @@
 @charset "utf-8";
 
 // ======================
-// 1. 核心字体引入（全部通过CDN）
+// 极致性能：纯系统字体栈
 // ======================
+$font-main: -apple-system, BlinkMacSystemFont, 
+            "Segoe UI", 
+            "PingFang SC", "Microsoft YaHei", 
+            "WenQuanYi Micro Hei", "Noto Sans CJK SC", 
+            sans-serif;
 
-// 先加载英文字体（加载速度通常更快）
-@import url('https://fonts.loli.net/css?family=Source+Serif+Pro:400,400i,600,700&display=swap');
+$font-code: "SF Mono", "Menlo", "Consolas", 
+            "Cascadia Code", "Fira Code", 
+            "Courier New", monospace;
 
-// 再加载中文字体
-@import url('https://gw.alipayobjects.com/os/k/font/lxgwwenkaiscreenr.css');
-
-// ======================
-// 2. 字体族定义（统一使用Source Serif Pro）
-// ======================
-
-// 主字体（中文优先，英文使用Source Serif Pro）
-$font-main: "LXGW WenKai Screen R", "Source Serif Pro", serif;
-
-// 代码字体（使用等宽字体）
-$font-code: "Source Code Pro", "Consolas", "Monaco", "Andale Mono", "Ubuntu Mono", monospace;
-
-// CSS变量
 :root {
   --font-body: #{$font-main};
   --font-code: #{$font-code};
 }
 
-// ======================
-// 3. 全局样式设置
-// ======================
-
-// 基础文本
 body {
-  font-display: swap;
   font-family: var(--font-body);
   line-height: 1.6;
-  font-size: 16px; // 确保基准字体大小
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
-// 标题保持与正文一致
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-body);
   font-weight: 600;
 }
 
-// 代码区块
 code, pre, kbd {
   font-family: var(--font-code);
   font-size: 0.9em;
 }
 
-// 文章正文区域特殊处理
 .page-content {
-  // 确保正文区域使用主字体
-  font-family: var(--font-body) !important;
-  
-  p, li, td, th {
-    font-family: var(--font-body);
-  }
-}
-
-// 代码块特殊处理
-pre {
-  line-height: 1.5;
-  tab-size: 2;
-  font-weight: 400;
+  font-family: var(--font-body);
 }

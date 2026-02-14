@@ -1,4 +1,3 @@
-// Post wrapper
 .wrapper.post {
   @include media-query($on-mobile) {
     padding-left: $spacing-half;
@@ -6,7 +5,6 @@
   }
 }
 
-// Post title
 .header {
   margin-top: 7.8em;
   margin-bottom: 3em;
@@ -41,18 +39,17 @@
   }
 }
 
-// Post meta
 .post-meta {
   padding-top: 3px;
   line-height: 1.3;
-  color: $gray;
+  color: var(--text-muted);
 
   time {
     position: relative;
     margin-right: 1.5em;
 
     &::after {
-      background: $light;
+      background: var(--border-light);
       bottom: 1px;
       content: " ";
       height: 2px;
@@ -63,18 +60,14 @@
   }
 
   span[itemprop="author"] {
-    border-bottom: 1px dotted $light;
+    border-bottom: 1px dotted var(--border-light);
   }
 }
 
-// Post content
 .page-content {
   padding-top: 8px;
-
-    // 确保正文使用正确的字体
   font-family: var(--font-body);
 
-    // 确保所有文本元素使用主字体
   p, ul, ol, dl, blockquote, table {
     font-family: var(--font-body);
   }
@@ -100,8 +93,9 @@
   }
 
   a {
-    color: $text-link-blue;
+    color: var(--text-link);
     text-decoration: none;
+    
     &[target="_blank"]::after {
       content: " \2197";
       font-size: $small-font-size;
@@ -112,11 +106,11 @@
     }
 
     &:hover {
-      color: $text-link-blue-active;
+      color: var(--text-link-active);
     }
 
     &:focus {
-      color: $text-link-blue;
+      color: var(--text-link);
     }
   }
 
@@ -149,31 +143,10 @@
   h4,
   h5,
   h6 {
-    color: $black;
+    color: var(--heading-color);
     font-weight: $bold-weight;
     margin-top: $spacing-full;
     margin-bottom: 0;
-
-    &:hover {
-      .anchor-head {
-        color: $text-link-blue;
-        opacity: 1;
-      }
-    }
-
-    .anchor-head {
-      position: relative;
-      opacity: 0;
-      outline: none;
-
-      &::before {
-        content: "#";
-        position: absolute;
-        right: -3px;
-        width: 1em;
-        font-weight: $bold-weight;
-      }
-    }
   }
 
   h1 {
@@ -186,7 +159,7 @@
 
   h3 {
     @include relative-font-size(1.25);
-    border-bottom: 1px solid $light;
+    border-bottom: 1px solid var(--border-light);
     padding-bottom: 4px;
   }
 
@@ -207,7 +180,7 @@
   display: flex;
   position: relative;
   margin-top: 5em;
-  border-top: 1px solid $light;
+  border-top: 1px solid var(--border-light);
   line-height: 1.4;
 
   .post-nav-item {
@@ -216,13 +189,13 @@
     padding-bottom: 10px;
 
     .post-title {
-      color: $black;
+      color: var(--heading-color);
     }
 
     &:hover,
     &:focus {
       .post-title {
-        color: $text-link-blue-active;
+        color: var(--text-link-active);
         opacity: 0.9;
       }
     }
@@ -230,7 +203,7 @@
     .nav-arrow {
       font-weight: $normal-weight;
       font-size: $small-font-size;
-      color: $gray;
+      color: var(--text-muted);
       margin-bottom: 3px;
     }
 
@@ -263,11 +236,11 @@
     .post-nav-item:nth-child(even) {
       border-left: 0;
       padding-left: 0;
-      border-top: 1px solid $light;
+      border-top: 1px solid var(--border-light);
     }
   }
 }
 
 .post-updated-at {
-  font-family: "Ubuntu mono", "monospace";
+  font-family: var(--font-code);
 }

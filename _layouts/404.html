@@ -3,44 +3,28 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " zh-CN " }}">
-
+<html lang="{{ page.lang | default: site.lang | default: "zh-CN" }}">
 {% include header.html %}
+
 <body data-theme="{{ site.mode }}" class="notransition">
-
-  <script>
-    const body = document.body;
-    const data = body.getAttribute("data-theme");
-
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
- 
-    initTheme(localStorage.getItem("theme"));
-    
-    setTimeout(() => body.classList.remove("notransition"), 75);
-  </script>
-
   {% include navbar.html %}
+  
   <div class="wrapper">
     <main aria-label="Content">
       <div class="not-found">
         <div class="container">
           <div class="title">404</div>
-          <p class="phrase">😕 Hmm... Seems you lost from my journey.服务器刷爆了😭</p>
-          <a class="solution" href="{{ site.url }}">back Home</a>
+          <p class="phrase">😕 页面好像走丢了...</p>
+          <p class="suggestion">你可以</p>
+          <div class="actions">
+            <a class="solution" href="{{ site.url }}">🏠 回首页</a>
+            <span class="separator">·</span>
+            <a class="solution" href="/archive/">📚 浏览所有文章</a>
+          </div>
         </div>
       </div>
     </main>  
     {% include footer.html %}
   </div>
-    
 </body>
-
 </html>

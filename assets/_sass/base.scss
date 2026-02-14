@@ -1,4 +1,6 @@
-// Reset some basic elements
+// ======================
+// 基础重置
+// ======================
 * {
   -webkit-transition: background-color 75ms ease-in, border-color 75ms ease-in;
   -moz-transition: background-color 75ms ease-in, border-color 75ms ease-in;
@@ -41,13 +43,12 @@ figure {
   padding: 0;
 }
 
-// Basic styling
 body {
   min-height: 100vh;
   overflow-x: hidden;
   position: relative;
-  color: $text-base-color;
-  background-color: $white;
+  color: var(--text-base);
+  background-color: var(--bg-primary);
   font: $normal-weight #{$base-font-size}/#{$base-line-height} $sans-family;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -59,7 +60,6 @@ body {
   box-sizing: border-box;
 }
 
-// Set `margin-bottom` to maintain vertical rhythm
 h1,
 h2,
 h3,
@@ -78,27 +78,24 @@ figure,
   margin-bottom: $spacing-full - 20;
 }
 
-// strong | bold
 strong,
 b {
   font-weight: $bold-weight;
-  color: $black;
+  color: var(--heading-color);
 }
 
-// horizontal rule
 hr {
   border-bottom: 0;
   border-style: solid;
-  border-color: $light;
+  border-color: var(--border-light);
 }
 
-// kbd tag
 kbd {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
-  border: 1px solid $light;
+  border: 1px solid var(--border-light);
   border-radius: 2px;
-  color: $black;
+  color: var(--heading-color);
   display: inline-block;
   font-size: $small-font-size;
   line-height: 1.4;
@@ -106,10 +103,9 @@ kbd {
   margin: 0 0.1em;
   font-weight: $bold-weight;
   padding: 0.01em 0.4em;
-  text-shadow: 0 1px 0 $white;
+  text-shadow: 0 1px 0 var(--bg-primary);
 }
 
-// Image
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -120,47 +116,47 @@ img {
   box-shadow: #84A1A8 0px 10px 15px;
 }
 
-// Figure
 figure {
   position: relative;
+  
+  > img {
+    display: block;
+    position: relative;
+  }
 }
 
-// Image inside Figure tag
-figure > img {
-  display: block;
-  position: relative;
-}
-
-// Image caption
 figcaption {
   font-size: 13px;
   text-align: center;
 }
 
-// List
 ul {
   list-style: none;
+  
   li {
     display: list-item;
     text-align: -webkit-match-parent;
-  }
-  li::before {
-    content: "\FE63";
-    display: inline-block;
-    top: -1px;
-    width: 1.2em;
-    position: relative;
-    margin-left: -1.3em;
-    font-weight: 700;
+    
+    &::before {
+      content: "\FE63";
+      display: inline-block;
+      top: -1px;
+      width: 1.2em;
+      position: relative;
+      margin-left: -1.3em;
+      font-weight: 700;
+    }
   }
 }
 
 ol {
   list-style: none;
   counter-reset: li;
+  
   li {
     position: relative;
     counter-increment: li;
+    
     &::before {
       content: counter(li);
       display: inline-block;
@@ -186,7 +182,7 @@ li {
   padding-top: 1px;
 
   &:before {
-    color: $black;
+    color: var(--heading-color);
   }
 
   > ul,
@@ -196,15 +192,15 @@ li {
   }
 }
 
-// Headings
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  color: $black;
+  color: var(--heading-color);
   font-weight: $bold-weight;
+  
   & + ul,
   & + ol {
     margin-top: 10px;
@@ -213,31 +209,24 @@ h6 {
   @include media-query($on-mobile) {
     scroll-margin-top: 65px;
   }
-}
-
-// Headings with link
-h1 > a,
-h2 > a,
-h3 > a,
-h4 > a,
-h5 > a,
-h6 > a {
-  text-decoration: none;
-  border: none;
-
-  &:hover {
+  
+  > a {
     text-decoration: none;
     border: none;
+
+    &:hover {
+      text-decoration: none;
+      border: none;
+    }
   }
 }
 
-// Link
 a {
   color: inherit;
-  text-decoration-color: $smoke;
+  text-decoration-color: var(--border-light);
 
   &:hover {
-    color: $text-link-blue;
+    color: var(--text-link);
   }
 
   &:focus {
@@ -246,24 +235,18 @@ a {
   }
 }
 
-// Del
-del {
-  color: inherit;
-}
-
-// Em
+del,
 em {
   color: inherit;
 }
 
-// Blockquotes
 blockquote {
-  color: $gray;
+  color: var(--text-muted);
   font-style: italic;
   text-align: center;
   opacity: 0.9;
-  border-top: 1px solid $light;
-  border-bottom: 1px solid $light;
+  border-top: 1px solid var(--border-light);
+  border-bottom: 1px solid var(--border-light);
   padding: 10px;
   margin-left: 10px;
   margin-right: 10px;
@@ -275,7 +258,6 @@ blockquote {
   }
 }
 
-// Wrapper
 .wrapper {
   max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
   max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
@@ -299,17 +281,14 @@ blockquote {
   }
 }
 
-// Underline
 u {
-  text-decoration-color: #d2c7c7;
+  text-decoration-color: var(--border-light);
 }
 
-// Small
 small {
   font-size: $small-font-size;
 }
 
-// Superscript
 sup {
   border-radius: 10%;
   top: -3px;
@@ -319,7 +298,6 @@ sup {
   margin-right: 2px;
 }
 
-// Table
 .overflow-table {
   overflow-x: auto;
 }
@@ -332,33 +310,30 @@ table {
 
   thead {
     font-weight: $bold-weight;
-    color: $black;
-    border-bottom: 1px solid $light;
+    color: var(--heading-color);
+    border-bottom: 1px solid var(--border-light);
   }
 
   th,
   td,
   tr {
-    border: 1px solid $light;
+    border: 1px solid var(--border-light);
     padding: 2px 7px;
   }
 }
 
-// Clearfix
 %clearfix:after {
   content: "";
   display: table;
   clear: both;
 }
 
-// When mouse block a text set this color
 mark,
 ::selection {
   background: #fffba0;
-  color: $black;
+  color: var(--heading-color);
 }
 
-// Github Gist clear border
 .gist {
   table {
     border: 0;
