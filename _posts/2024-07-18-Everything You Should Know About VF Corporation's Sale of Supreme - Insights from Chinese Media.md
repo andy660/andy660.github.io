@@ -7,7 +7,7 @@ comments: false
 slug: VF-Corporation-Sale-Supreme
 ---
 
-![Supreme is being bought by EssilorLuxottica](https://img.gugu.ovh/i/2024/07/18/130150.webp)
+![Supreme is being bought by EssilorLuxottica](https://picsource.2cweekly.com/Supreme is being bought by EssilorLuxottica.webp)
 
 
 VF Corporation (VFC.US) announced this week that it has agreed to sell its brand Supreme to EssilorLuxottica for $1.5 billion in cash. The transaction is expected to be completed by the end of this year, pending certain closing conditions and regulatory approvals.

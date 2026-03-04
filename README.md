@@ -16,4 +16,4 @@ Besides fashion-related topics, I also document my investment insights and ideas
 
 As a passionate fashion freelance writer, I'm eager to contribute my expertise to your publications. If you're seeking the latest news or analysis on China's fashion industry, I'd be thrilled to collaborate with you.
 
-I'm always open to feedback on my blog. Please feel free to [Drop me an email.](mailto:andytaweekly@gmail.com)
+I'm always open to feedback on my blog.

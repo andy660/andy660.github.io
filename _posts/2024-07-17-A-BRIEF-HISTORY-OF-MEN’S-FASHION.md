@@ -11,21 +11,21 @@ Menswear is steeped in history and tradition. Every person in menswear (designer
 
 Therefore, let's take a quick look back at the last hundred years or so in men's fashion. This may provide some insight and context into how menswear has evolved over time.
 
-![15.17.49](https://img.gugu.ovh/i/2024/07/17/152211.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.17.49](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.17.49.webp)
 
 ## LATE 1800S: LAST OF THE VICTORIANS
 As the nineteenth century came to an end men were slowly shaking-off the Victorian influence which still had them wearing top-hats, frock coats, and pocket watches while carrying walking sticks.  
 
 This may seem like an elaborate and restrictive way to dress, but it was a big step in the right direction considering the Georgian period that proceeded it had men wearing feathers, panty hose, and high heels. And you thought you were a “dandy”.
 
-![15.18.47](https://img.gugu.ovh/i/2024/07/17/152213.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.18.47](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.18.47.webp)
 
 ## 1900S: TALL, LONG & LEAN
 As we moved into the 1900s men’s clothing was predominantly utilitarian and rather rigid. The long, lean, and athletic silhouette of the late 1890s persisted, and tall, stiff collars characterize the period.  
 
 Three-piece suits consisting of a sack coat with matching waistcoat and trousers were worn, as were matching coat and waistcoat with contrasting trousers, or matching coat and trousers with contrasting waistcoat. Trousers were shorter than before, often had “turn-ups” or “cuffs_“_, and were creased front and back using the newly-invented trouser press.
 
-![15.19.07](https://img.gugu.ovh/i/2024/07/17/152214.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.07](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.07.webp)
 
 ## 1920S: Fitted & Sleek, but Still Heavy
 After the war (which introduced numerous classic menswear designs that are still used today, like trench coats and cargos), business started to pick up and Americans had more money. More money allowed them to travel more and broaden their horizons culturally and aesthetically.
@@ -42,7 +42,7 @@ Through newsreels, newspapers, and magazines, the elegant Prince became the firs
 
 He was a legitimate trendsetter for every day people and it was the first time in history that clothing advertisers would use a celebrity face to sell clothing, shamelessly plugging their items “as worn by the Prince”.
 
-![15.19.32](https://img.gugu.ovh/i/2024/07/17/152215.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.32](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.32.webp)
 
 ## 1930S: THE HEIGHT OF ELEGANCE
 The begining of the 1930s saw the Great Depression. Although the average man couldn’t afford to partake in the world of fashion, many often enjoyed observing the style choices of those who could.
@@ -59,7 +59,7 @@ Instead, they had to become part of the man who was wearing them. The idea of cl
 
 Americans had finally leanred that the goal of good clothing was to flatter rather than be conspicuous.” – Alan Flusser
 
-![15.19.49](https://img.gugu.ovh/i/2024/07/17/152216.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.49](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.19.49.webp)
 
 ## 1940S: THE BIRTH OF READY-TO-WEAR
 With the end of World War II, American men strayed from the high standards and basic principles of fine dress established in the thirties. Part of this was changes in the workforce and the loss of formality in everyday life.
@@ -76,7 +76,7 @@ Ultimately, this marketing strategy pushed the consumer further and further away
 
 Instead, the goal of clothiers became to confuse and pressure the consumer to continually “re-invent himself” by purchasing “new styles” that are “in fashion”. This drives more sales with no care for the longevity or aesthetic of the look.
 
-![15.20.12](https://img.gugu.ovh/i/2024/07/17/152217.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.12](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.12.webp)
 
 ## 1950S: THE AGE OF CONFORMITY
 
@@ -93,7 +93,7 @@ As it turns out, synthetic cloth makes for terrible menswear garments, especiall
 
 Aesthetically, the period was dominated by conservative grey suits and minimalist accessories (hat, pocket square, cigarette, and martini) for just about everyone.
 
-![15.20.29](https://img.gugu.ovh/i/2024/07/17/152217_1.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.29](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.29.webp)
 
 ## 1960S: REBELLION & INDIVIDUALITY
 The 1960s were a decade of unrest and rebellion against the establishment and the conservatism that was celebrated in the 1950s.  
@@ -104,7 +104,7 @@ Stores carried more variety than ever. It was approaching an “anything goes”
 
 The was also the first time that fathers began looking to their sons for advice. The first time in history that grown men wanted to look young and care-free. This trend, of course, only took us further away from the rules of elegance that were established in the 1930s.
 
-![15.20.50](https://img.gugu.ovh/i/2024/07/17/152218.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.50](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.20.50.webp)
 
 ## 1970S: DISCO FUNK
 The early 1970s were a continuation of late 1960s hippie rebel fashion. For men this particularly meant bell bottom jeans, tie dye shirts, and military surplus clothing.
@@ -115,19 +115,19 @@ Men began to wear stylish three-piece suits (which became available in a bewilde
 
 Neckties became wider and bolder, and shirt collars became long and pointed as the “disco funk” was all the rage.
 
-![15.21.11](https://img.gugu.ovh/i/2024/07/17/152219.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.11](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.11.webp)
 
 ## 1980S: POWER DRESSING
 In the 1980s, things got a little more serious, with broad shoulders framing power ties and suspenders. Bold colors and graphic patterns conveyed a new national confidence and businessmen took to power dressing with an emphasis on expensive clothing and gaudy accessories.
 
-![15.21.31](https://img.gugu.ovh/i/2024/07/17/152220.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.31](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.31.webp)
 
 ## 1990S: BAGGY BUSINESS CASUAL
 This may be perhaps the worst-dressed decade of them all. The fashion in the 1990s was the genesis of a sweeping shift in the western world. This brought back the indifferent, anti-conformist approach to fashion, leading to the popularization of the casual chic look; this included T-shirts, distressed jeans, oversized hoodies, and trainers.  
 
 “Business Casual” also entered the lexicon as corporate offices generally became less formal, ultimately causing the suit to get bigger and uglier than ever.
 
-![15.21.41](https://img.gugu.ovh/i/2024/07/17/152221.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.41](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.41.webp)
 
 ## 2000S: HIP-HOP & EUROPEAN TAILORING
 Menswear in the new millennium was influenced primarily by hip-hop culture for the youth, and European “slim fit” tailoring for the older gents.  
@@ -136,7 +136,7 @@ The suit finally started to slim down, as the “European cut” became highly s
 
 The internet also made it easier for men to learn about menswear and share their opinions with fellow style enthusiasts. We saw the birth of the first menswear blogs, with this one starting in 2009.
 
-![15.21.57](https://img.gugu.ovh/i/2024/07/17/152222.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.57](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.21.57.webp)
 
 ## 2010S: THE EVOLUTION OF STYLE ONLINE
 The 2010s have brought us the evolution of the “fashion star”. Fashion bloggers have become mainstream. On the one hand, suddenly fashion is in the hands of the people, producing a larger variety of styles, reviews, and opinions than ever before.  
@@ -151,4 +151,4 @@ The internet also allowed for more start-up brands than ever, marketed using soc
 
 In a way, we’re starting to see the re-surgence of the small brand, fueled by the power of the internet and the desire for consumers to have something limited and exclusive. 
 
-![15.22.16](https://img.gugu.ovh/i/2024/07/17/152222_1.webp)
+![HISTORY-OF-MENS-FASHION-2024-07-17 at 15.22.16](https://picsource.2cweekly.com/HISTORY-OF-MENS-FASHION-2024-07-17 at 15.22.16.webp)

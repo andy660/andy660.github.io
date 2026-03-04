@@ -27,11 +27,11 @@ slug: 2CWeekly008
 
 不出所料，《Vogue》 五月刊的封面给了 Karl Lagerfeld。
 
-![Vogue封面0523_Cover_02](https://img.gugu.ovh/i/2026/01/27/175247.webp)
+![Vogue封面0523_Cover_02](https://picsource.2cweekly.com/Vogue封面0523_Cover_02.webp)
 
 编辑们请了「老佛爷」最喜欢的十位名模（Anok Yai、Shalom Harlow、Kendall Jenner、Liu Wen、Adut Akech、Natalia Vodianova、Naomi Campbell、Amber Valletta、Gigi Hadid 和 Devon Aoki）拍摄同框大片，连他最爱的喵星人 Choupette 也一起出镜，另外，编辑们还采访了业界知名的多位设计师，表达对时尚大师的赞誉。
 
-![Vogue封面0523_Cover_Logo](https://img.gugu.ovh/i/2026/01/27/175840.webp)
+![Vogue封面0523_Cover_Logo](https://picsource.2cweekly.com/Vogue封面0523_Cover_Logo.webp)
 
 Karl Lagerfeld 确实是时尚界的传奇啊。
 

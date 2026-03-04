@@ -7,7 +7,7 @@
   external: false
   
 - title: WEEKLY
-  url: https://2cweekly.com/tags/#2CWeekly
+  url: /tags/#2CWeekly
   external: true
 
 - title: About

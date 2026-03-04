@@ -7,8 +7,6 @@ comments: false
 slug: the-Business-of-Fashion-Industry-China
 ---
 
-![]( https://img.gugu.ovh/i/2023/11/16/z3i3x6.webp)
-
 Luxury goods giants Hermès, LVMH, and Kering all reported slower sales growth in the third quarter of 2023, raising concerns about the health of the industry.
 
 Industry insiders believe that the decline in fashion brand performance is linked to the weak Chinese market. Some attribute this to the broader phenomenon of consumption downgrade during economic downturns.
