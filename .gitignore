@@ -37,6 +37,8 @@ gemfiles/*.lock
 # 备份文件
 *.bak
 *.backup
+Gemfile.lock.backup
+Gemfile.backup
 
 # 编辑器配置
 # VS Code
