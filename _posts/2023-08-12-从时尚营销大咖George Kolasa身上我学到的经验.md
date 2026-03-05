@@ -130,7 +130,7 @@ Adidas 的 NFT 项目之所以有代表性，因为它在 2021 年 12 月发布�
 部分文章原文需要会员权限，为尊重原作版权，博主不会全文搬运。如需深入阅读，可搜索原题：
 
 - 《Nicola Tanzini maps the changing landscape of tourist photography》
-- 《PHOTO FACTORY ART|Nicola Tanzini - Fotografo》
+- 《PHOTO FACTORY ART-Nicola Tanzini - Fotografo》
 - 《LVMH Tops $22 Billion Luxury Rally as China Lifts Travel Ban》
 - 《Coach owner Tapestry to acquire Michael Kors parent Capri Holdings in 8.5 billion dollar deal》
 - 《Why the Coach and Kors Marriage Doesn’t Scare LVMH》
