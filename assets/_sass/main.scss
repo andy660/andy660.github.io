@@ -103,3 +103,37 @@ $on-widescreen: 1152px;
     }
   }
 }
+
+/* === 图表容器（Mermaid / Markmap）使用柔和浅色背景，与黑色代码块区分 === */
+.language-mermaid,
+.markmap {
+  background-color: #f7f7f7;          /* 浅灰，不刺眼 */
+  padding: 12px;
+  border-radius: 6px;
+  margin: 1em 0;
+  overflow-x: auto;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06); /* 轻微阴影增加层次 */
+}
+
+/* 清除 Mermaid 内部可能残留的代码块黑色背景 */
+.language-mermaid pre,
+.language-mermaid code {
+  background: transparent !important;
+  color: #333 !important;
+}
+
+/* 图表 SVG 自适应，且不覆盖容器背景 */
+.language-mermaid svg,
+.markmap svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  background: transparent !important;
+}
+
+/* 如果 Jekyll 生成的 HTML 外层有 .highlight 包裹，提高选择器优先级 */
+.highlight .language-mermaid,
+div.language-mermaid {
+  background-color: #f7f7f7 !important;
+}

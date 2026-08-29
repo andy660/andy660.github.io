@@ -36,7 +36,7 @@ kramdown:
   syntax_highlighter: rouge
   input: GFM
   hard_wrap: false
-  mermaid: false
+  mermaid: true
 
 # Default front matter
 defaults:
