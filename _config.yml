@@ -14,7 +14,7 @@ author:
   username: Andy Lai
   github: andy660
   email: andytaweekly@gmail.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/up-1.jpg
 
 # URL settings
 url: "https://www.2cweekly.com"
@@ -77,6 +77,12 @@ exclude:
   - docker-compose.yml
   - node_modules
   - vendor
+
+feed:
+  excerpt_only: true  # 仅输出摘要，不输出全文
+  collections:
+    posts:
+      limit: 5       # 限制输出的最新文章数量（默认是20，改为10或5可以减小体积）
 
 # Plugins
 plugins:
